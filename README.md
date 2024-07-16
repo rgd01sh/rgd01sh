@@ -19,49 +19,40 @@ My background encompasses Data Analysis, System Design, and Project Management. 
 ## Major
 Management Information Systems (MIS)
 
+# GitHub Overview
+
+Exploring Data Analysis and Web Design
+
+My background encompasses Data Analysis, System Design, and Project Management. I am currently focusing on Web UI/UX Development and crafting interactive webpages. I combine technical expertise with creativity, particularly in detailed diagramming. I am committed to achieving exceptional outcomes through efficient resource utilization.
+
+## Major
+Management Information Systems (MIS)
+
+## Skills and Technologies
+
 ### Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,c,html,css,javascript,typescript,solidity,powershell,octave,matlab,r,lua,md&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,sql&perline=5" />
   </a>
 </div>
 
 ### Frameworks & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,django,express,tailwind,bootstrap,nodejs,jest,firebase,vite,tensorflow,pytorch&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap&perline=4" />
   </a>
 </div>
 
 ### Tools of Trade
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" />
   </a>  
 </div>
 
-### Other Tools
-<div align="center">
-  <img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f' width=45></img>
-  <img src='https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png' width=45></img>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
-  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbH-UpHQMdmoB1pVQ9L7jH88u6H15isaxQQ&usqp=CAU' width=45></img>
-  <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/bettercap/images/bettercap-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
-  <img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=45></img>
-</div>
+Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out.
 
-### Would Love to Learn
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=8" />
-  </a>
-</div>
 
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out.
