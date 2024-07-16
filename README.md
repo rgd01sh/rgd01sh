@@ -1,6 +1,6 @@
- # RGD*★*'s GitHub Overview <p align="center">
-  <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
-</p>
+ # RGD*★*'s GitHub Overview   <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
+</p> <p align="center">
+
 ```markdown
 
 
