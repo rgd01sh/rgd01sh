@@ -17,21 +17,21 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 ### Skills and Technologies
 
 #### Languages
-<div align="center">
+<div 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,sql&perline=5" />
   </a>
 </div>
 
 #### Frameworks & Libraries
-<div align="center">
+<div 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap&perline=4" />
   </a>
 </div>
 
 #### Tools of Trade
-<div align="center">
+<div 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" />
   </a>
