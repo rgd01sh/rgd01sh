@@ -37,6 +37,12 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
   </a>
 </div>
 
+### Visitors
+
+<p align="center">
+  <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
+</p>
+
 ## Connect with Me
 
 <p align="center">
@@ -45,13 +51,7 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
   </a>
 </p>
 
-### Visitors
-
-<p align="center">
-  <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
-</p>
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
-```
 
  
