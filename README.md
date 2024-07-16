@@ -1,31 +1,12 @@
+# RGD*★*'s GitHub Overview
 
- RGD*★*'s GitHub Overview
+Welcome to my GitHub profile! I’m Raghad, passionate about data analysis, web development, and design. Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
 
-Welcome to my GitHub profile! I’m Raghad, a passionate with a keen interest in data analysis, web development, and design. Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
-
-My background encompasses Data Analysis, System Design, and Project Management. I am currently focusing on Web UI/UX Development and crafting interactive webpages. I combine technical expertise with creativity, particularly in detailed diagramming. I am committed to achieving exceptional outcomes through efficient resource utilization.
-
-## Major
-Management Information Systems (MIS)
-
-## Skills and Technologies
-
-# GitHub Overview
-
-Exploring Data Analysis and Web Design
+## About Me
 
 My background encompasses Data Analysis, System Design, and Project Management. I am currently focusing on Web UI/UX Development and crafting interactive webpages. I combine technical expertise with creativity, particularly in detailed diagramming. I am committed to achieving exceptional outcomes through efficient resource utilization.
 
-## Major
-Management Information Systems (MIS)
-
-# GitHub Overview
-
-Exploring Data Analysis and Web Design
-
-My background encompasses Data Analysis, System Design, and Project Management. I am currently focusing on Web UI/UX Development and crafting interactive webpages. I combine technical expertise with creativity, particularly in detailed diagramming. I am committed to achieving exceptional outcomes through efficient resource utilization.
-
-## Major
+### Major
 Management Information Systems (MIS)
 
 ## Skills and Technologies
@@ -48,13 +29,8 @@ Management Information Systems (MIS)
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" />
-  </a>  
+  </a>
 </div>
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out.
-
-
-
-Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out.
-
 
