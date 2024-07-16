@@ -1,4 +1,6 @@
- # RGD*★*'s GitHub Overview
+ # RGD*★*'s GitHub Overview <p align="center">
+  <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
+</p>
 ```markdown
 
 
@@ -37,11 +39,6 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
   </a>
 </div>
 
-### Visitors
-
-<p align="center">
-  <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
-</p>
 
 ## Connect with Me
 
