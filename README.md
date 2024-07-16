@@ -5,7 +5,8 @@
 print(''.join(chr(i) for i in [112, 101, 114, 102, 101, 99, 116]))
 ```
 
-## Welcome to my GitHub profile! I’m Raghad, passionate about data analysis, web development, and design. Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
+## Welcome to my GitHub profile! 
+I’m Raghad, passionate about data analysis, web development, and design. Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
 
 ## Highlight Aspects
 
