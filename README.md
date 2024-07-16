@@ -10,7 +10,7 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 
 ## Highlight Aspects
 
-👩‍🎓 **Management Information Systems (MIS) **  
+👩‍🎓 **Management Information Systems (MIS)**  
  Passionate about **design** and **web development**  
  🫡 Always looking to improve and innovate in tech and design
 
@@ -53,6 +53,7 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
     <img src="https://img.shields.io/badge/Email-rgd.01@outlook.com-D14836?logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
+
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
 
