@@ -14,7 +14,7 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 
 👩‍🎓 **Management Information Systems (MIS)**  
  Passionate about **design** and **web development**  
- 🫡 Always looking to improve and innovate in tech and design
+ Always looking to improve and innovate in tech and design
 
 ### Skills and Technologies
 
@@ -41,8 +41,9 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 
 
 ## Connect with Me
+Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
 
-<p align="center">
+<p 
   <a href="https://www.linkedin.com/in/raghad-alshanqeeti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -53,6 +54,5 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 
 
 
-Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
 
  
