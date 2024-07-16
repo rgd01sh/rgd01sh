@@ -2,17 +2,16 @@
 ```markdown
 
 
-```python
 print(''.join(chr(i) for i in [112, 101, 114, 102, 101, 99, 116]))
 ```
 
-Welcome to my GitHub profile! I’m Raghad, passionate about data analysis, web development, and design. Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
+## Welcome to my GitHub profile! I’m Raghad, passionate about data analysis, web development, and design. Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
 
-## About Me
+## Highlight Aspects
 
-👩‍🎓 **Management Information Systems (MIS) student**  
-📈 Passionate about **design** and **web development**  
-🚀 Always looking to improve and innovate in tech and design
+👩‍🎓 **Management Information Systems (MIS) **  
+ Passionate about **design** and **web development**  
+ 🫡 Always looking to improve and innovate in tech and design
 
 ### Skills and Technologies
 
