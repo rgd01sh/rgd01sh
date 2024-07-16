@@ -10,13 +10,59 @@ Management Information Systems (MIS)
 
 ## Skills and Technologies
 
-I have experience with a variety of programming languages and tools, including:
+# GitHub Overview
 
-- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Design:** UI/UX design, Adobe Creative Suite
-- **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- **Advanced Techniques:** CSS animations, advanced JavaScript frameworks
+Exploring Data Analysis and Web Design
+
+My background encompasses Data Analysis, System Design, and Project Management. I am currently focusing on Web UI/UX Development and crafting interactive webpages. I combine technical expertise with creativity, particularly in detailed diagramming. I am committed to achieving exceptional outcomes through efficient resource utilization.
+
+## Major
+Management Information Systems (MIS)
+
+### Languages
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,c,html,css,javascript,typescript,solidity,powershell,octave,matlab,r,lua,md&perline=8" />
+  </a>
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,django,express,tailwind,bootstrap,nodejs,jest,firebase,vite,tensorflow,pytorch&perline=6" />
+  </a>
+</div>
+
+### Tools of Trade
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix&perline=8" />
+  </a>  
+</div>
+
+### Other Tools
+<div align="center">
+  <img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f' width=45></img>
+  <img src='https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png' width=45></img>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbH-UpHQMdmoB1pVQ9L7jH88u6H15isaxQQ&usqp=CAU' width=45></img>
+  <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/bettercap/images/bettercap-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
+  <img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=45></img>
+</div>
+
+### Would Love to Learn
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=8" />
+  </a>
+</div>
+
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out.
 
