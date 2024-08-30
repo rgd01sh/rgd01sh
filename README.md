@@ -17,8 +17,15 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
  Passionate about **design** and **web development**  
  Always looking to improve and innovate in tech and design
 <p align="center">
-   <img align="center" src="https://github-stats-ammar-faifi.vercel.app/api?username=rgd01sh&theme=onedark"/>
+  <img align="center" src="https://wakatime.com/badge/user/your-user-id.svg" alt="Wakatime Stats" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rgd01sh&theme=react-dark" />
+</p>
+<p align="center">
+  <img align="center" src="https://metrics.lecoq.io/rgd01sh?template=classic&base.indepth=false&base.hireable=false&base.repository=false&languages=1&languages.limit=5&languages.colors=github&languages.threshold=0%25&languages.size=compact&languages.exclude=html,css&config.timezone=America%2FNew_York" />
+</p>
+
  
 ### Skills and Technologies
 
