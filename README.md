@@ -42,17 +42,12 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 ## Connect with Me
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
 
-<p>
-  <a href="https://www.linkedin.com/in/raghad-alshanqeeti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
-<p>
-  <a href="mailto:rgd.01@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/raghad-alshanqeeti/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:rgd.01@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
 
 
 
