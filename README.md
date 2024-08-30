@@ -52,3 +52,6 @@ Feel free to explore my repositories, and if you have any questions or collabora
 
 
  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdvZDNmb3hmejM5Zm5tdHBqejhxbXhjYzE0MnZreGRpMmdieTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgd2aXjyeUkgUTnfjg/giphy-downsized.gif" width="40"> Github Stats
+
+<p align="center"> <a href="https://github.com/your-username/github-readme-streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=onedark&layout=compact" /> </a> <a href="https://github.com/your-username/github-readme-stats"> <img align="center" src="https://github-stats-your-username.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html,css,purebasic,tcl" /> </a> </p>
