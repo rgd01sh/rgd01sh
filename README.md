@@ -1,4 +1,4 @@
- # RGD*★*'s GitHub Overview   <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=your-username&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
+ # RGD*★*'s GitHub Overview   <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=rgd01sh&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
 </p> <p align="center">
 
 ```markdown
@@ -51,16 +51,17 @@ Feel free to explore my repositories, and if you have any questions or collabora
 
 
 
-  ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdvZDNmb3hmejM5Zm5tdHBqejhxbXhjYzE0MnZreGRpMmdieTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgd2aXjyeUkgUTnfjg/giphy-downsized.gif" width="40"> **Github Stats**
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdvZDNmb3hmejM5Zm5tdHBqejhxbXhjYzE0MnZreGRpMmdieTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgd2aXjyeUkgUTnfjg/giphy-downsized.gif" width="40"> **Github Stats**
 
 <br />
 
 <p>
-  <a href="https://github.com/your-username/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=onedark&layout=compact" />
+  <a href="https://github.com/rgd01sh/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgd01sh&theme=onedark&layout=compact" />
   </a>
 
-  <a href="https://github.com/your-username/github-readme-stats">
-    <img align="center" src="https://github-stats-your-username.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html,css,purebasic,tcl" />
+  <a href="https://github.com/rgd01sh/github-readme-stats">
+    <img align="center" src="https://github-stats-rgd01sh.vercel.app/api/top-langs/?username=rgd01sh&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html,css,purebasic,tcl" />
   </a>
 </p>
+
