@@ -26,17 +26,17 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
   </a>
 </div>
 
-#### Frameworks & Libraries
-<div 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap&perline=4" />
-  </a>
-</div>
-
 #### Tools of Trade
 <div 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" />
+  </a>
+</div>
+
+#### Frameworks & Libraries
+<div 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap&perline=4" />
   </a>
 </div>
 
@@ -51,9 +51,10 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 </p>
 <p>
 <a href="https://github.com/rgd01sh/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgd01sh&layout=compact&theme=onedark&langs_count=6&hide=jupyter%20notebook,html,css,purebasic,tcl" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgd01sh&layout=compact&theme=onedark&langs_count=6&hide=php,java" />
 </a>
 </p>
+
 
 
 
