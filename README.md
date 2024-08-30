@@ -17,12 +17,7 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
  Passionate about **design** and **web development**  
  Always looking to improve and innovate in tech and design
  
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rgd01sh&theme=react-dark" />
-</p>
- 
 
- 
 ### Skills and Technologies
 
 #### Languages
