@@ -51,9 +51,10 @@ I’m Raghad, passionate about data analysis, web development, and design. Here,
 </p>
 <p>
 <a href="https://github.com/rgd01sh/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgd01sh&layout=compact&theme=onedark&langs_count=6&hide=php,java" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgd01sh&layout=compact&theme=onedark&langs_count=5&hide=php,java,jupyter%20notebook" />
 </a>
 </p>
+
 
 
 
