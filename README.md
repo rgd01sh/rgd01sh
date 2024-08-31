@@ -12,6 +12,18 @@ print(''.join(chr(i) for i in [112, 101, 114, 102, 101, 99, 116]))
 I’m Raghad, Professional Data Analyst, Intested in web development, and design. 
 Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
 
+## Connect with Me
+Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
+
+<a href="https://www.linkedin.com/in/raghad-alshanqeeti/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:rgd.01@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+
+
+
 ## Highlight Aspects
 
 👩‍🎓 **Management Information Systems (MIS)**  
@@ -55,18 +67,5 @@ Here, you'll find a collection of my projects, including web and app development
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgd01sh&theme=onedark&layout=compact" />
   </a>
 </p>
-
-
-
-
-## Connect with Me
-Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
-
-<a href="https://www.linkedin.com/in/raghad-alshanqeeti/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-<a href="mailto:rgd.01@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge" />
-</a>
 
 
