@@ -10,7 +10,7 @@ print(''.join(chr(i) for i in [112, 101, 114, 102, 101, 99, 116]))
 
 ## Welcome to my GitHub profile! 
 I’m Raghad, Professional Data Analyst, Intested in web development, and design. 
-Here, you'll find a collection of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
+Here, you'll find some of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
 
 ## Connect with Me
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don’t hesitate to reach out!
