@@ -26,7 +26,7 @@ Feel free to explore my repositories, and if you have any questions or collabora
 
 ## Highlight Aspects
 
-👩‍🎓 **Management Information Systems (MIS)**  
+👩‍🎓 **Senior Management Information Systems (MIS)**  
  Passionate about **design** and **web development**  
  Always looking to improve and innovate in tech and design
  
