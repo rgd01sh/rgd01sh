@@ -6,7 +6,8 @@
 
 print(''.join(chr(i) for i in [112, 101, 114, 102, 101, 99, 116]))
 ``` 
- > [Raghad-Portfolio]([https://github.com/rgd01sh/Raghad-Portfolio](https://rgd01sh.github.io/Raghad-Portfolio/))
+[Raghad-Portfolio](https://rgd01sh.github.io/Raghad-Portfolio/)
+
 
 ## Welcome to my GitHub profile! 
 I’m Raghad, Professional Data Analyst, Intested in web development, and design. 
