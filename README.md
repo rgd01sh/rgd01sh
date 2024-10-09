@@ -5,10 +5,8 @@
 ```markdown
 
 print(''.join(chr(i) for i in [112, 101, 114, 102, 101, 99, 116]))
-```
-# CSS Mouse Follow Animation
-
-> ### Check out my project!
+``` 
+> ### Check out my Portfolio!
 > [Raghad-Portfolio](https://github.com/rgd01sh/Raghad-Portfolio)
 
 ## Welcome to my GitHub profile! 
