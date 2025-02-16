@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://rgd01sh.github.io/Raghad-Portfolio/" target="_blank">[My Portfolio](https://rgd01sh.github.io/Raghad-Portfolio/)</a>
-</p>
-
 ## Welcome to my GitHub profile! 
 I’m Raghad, a **Data Analyst**, **Front-End Developer**, and **UX/UI Designer**. I’m passionate about web development, data analysis, and design.  
 Here, you'll find some of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
