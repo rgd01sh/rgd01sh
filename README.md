@@ -7,14 +7,10 @@
     <img src="https://s1.ezgif.com/tmp/ezgif-1c0bf1c9eba4dd.gif" alt="Portfolio Preview" width="500"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://rgd01sh.github.io/Raghad-Portfolio/" target="_blank">[My Portfolio](https://rgd01sh.github.io/Raghad-Portfolio/)</a>
-</p>
+ 
 
 
 ## Welcome to my GitHub profile! 
-I’m a **UX/UI Designer**. 
 Here, you'll find some of my projects, including web and app development, UI/UX designs, and various creative coding endeavors. 
 
 ## Connect with Me
