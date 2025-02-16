@@ -4,7 +4,7 @@
 ## Portfolio Preview
 <p align="center">
   <a href="https://rgd01sh.github.io/Raghad-Portfolio/" target="_blank">
-    <img src="URL-of-your-GIF-preview" alt="Portfolio Preview" width="500"/>
+    <img src="[URL-of-your-GIF-preview](https://s1.ezgif.com/tmp/ezgif-1c0bf1c9eba4dd.gif)" alt="Portfolio Preview" width="500"/>
   </a>
 </p>
 
