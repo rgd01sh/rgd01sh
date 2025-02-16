@@ -14,8 +14,8 @@
 
 
 ## Welcome to my GitHub profile! 
-I’m Raghad, a **Data Analyst**, **Front-End Developer**, and **UX/UI Designer**. I’m passionate about web development, data analysis, and design.  
-Here, you'll find some of my projects, including web and app development, UI/UX designs, and various creative coding endeavors.
+I’m a **UX/UI Designer**. 
+Here, you'll find some of my projects, including web and app development, UI/UX designs, and various creative coding endeavors. 
 
 ## Connect with Me
 Feel free to explore my repositories, and if you have any questions or collaboration opportunities, don’t hesitate to reach out!
@@ -26,13 +26,7 @@ Feel free to explore my repositories, and if you have any questions or collabora
 <a href="mailto:rgd.01@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
-
-## Highlight Aspects
-
-**Management Information Systems (MIS)**  
-Passionate about **design** and **web development**.  
-Always looking to improve and innovate in tech and design.
-
+ 
 ### Skills and Technologies
 
 #### Languages
