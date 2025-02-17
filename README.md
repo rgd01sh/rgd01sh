@@ -52,6 +52,6 @@ Feel free to explore my repositories, and if you have any questions or collabora
 
 <p>
   <a href="https://github.com/rgd01sh/github-readme-streak-stats">
-    <img align="center" src="![GitHub Streak](https://streak-stats.demolab.com/?user=rgd01sh&theme=onedark&layout=compact)" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=rgd01sh&theme=onedark&layout=compact" />
   </a>
 </p>
