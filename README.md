@@ -1,5 +1,6 @@
 # RGD*★*'s GitHub Overview  
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=rgd01sh&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
+<img alt="VISITORS" src="https://github.com/user-attachments/assets/3d71d7af-9437-40ae-b8fb-806569fded80" />
+ 
 
 ## Portfolio Preview
 <p align="center">
