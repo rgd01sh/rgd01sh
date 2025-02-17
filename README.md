@@ -1,11 +1,11 @@
 # RGD*★*'s GitHub Overview  
-<img alt="VISITORS" src="https://github.com/user-attachments/assets/3d71d7af-9437-40ae-b8fb-806569fded80" />
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=rgd01sh&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901" />
  
 
 ## Portfolio Preview
 <p align="center">
   <a href="https://rgd01sh.github.io/Raghad-Portfolio/" target="_blank">
-    <img src="https://s1.ezgif.com/tmp/ezgif-1c0bf1c9eba4dd.gif" alt="Portfolio Preview" width="500"/>
+    <img src="https://github.com/user-attachments/assets/3d71d7af-9437-40ae-b8fb-806569fded80" alt="Portfolio Preview" width="500"/>
   </a>
 </p>
  
