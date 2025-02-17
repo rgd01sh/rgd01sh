@@ -51,6 +51,6 @@ Feel free to explore my repositories, and if you have any questions or collabora
 <br />
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=rgd01sh&theme=onedark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgd01sh&theme=onedark&layout=compact" alt="Top Langs" />
 </p>
 
