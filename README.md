@@ -47,7 +47,7 @@ Feel free to explore my repositories, and if you have any questions or collabora
   </a>
 </p> 
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdvZDNmb3hmejM5Zm5tdHBqejhxbXhjYzE0MnZreGRpMmdieTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgd2aXjyeUkgUTnfjg/giphy-downsized.gif" width="40"> **Github Stats**
+## **Github Stats**
 
 <br />
 
