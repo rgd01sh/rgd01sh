@@ -8,7 +8,7 @@
     <img src="https://github.com/user-attachments/assets/3d71d7af-9437-40ae-b8fb-806569fded80" alt="Portfolio Preview" />
   </a>
 </p>
- 
+ https://rgd01sh.github.io/Raghad-Portfolio/
 
 
 ## Welcome to my GitHub profile! 
